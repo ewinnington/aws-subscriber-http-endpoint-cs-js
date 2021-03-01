@@ -1,0 +1,6 @@
+.vscode/
+cs/bin/
+cs/obj/
+
+js/node_modules
+localips
